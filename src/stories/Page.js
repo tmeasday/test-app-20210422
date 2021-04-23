@@ -15,7 +15,7 @@ export const Page = ({ user, onLogin, onLogout, onCreateAccount }) => (
         <a href="https://componentdriven.org" target="_blank" rel="noopener noreferrer">
           <strong>component-driven</strong>
         </a>{' '}
-        process starting with atomic components and ending with pages 4.
+        process starting with atomic components and ending with pages 5.
       </p>
       <p>
         Render pages with mock data. This makes it easy to build and review page states without
