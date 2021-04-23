@@ -7,7 +7,6 @@ import './button.css';
  */
 export const Button = ({ primary, backgroundColor, size, label, ...props }) => {
   const mode = primary ? 'storybook-button--primary' : 'storybook-button--secondary';
-  throw new Error('broken button');
   return (
     <button
       type="button"
